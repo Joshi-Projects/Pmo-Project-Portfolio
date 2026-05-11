@@ -1,4 +1,4 @@
-# Project Management Portfolio
+# 🚀 Project Management Portfolio
 
 Welcome to my Project Management portfolio repository.
 
@@ -10,8 +10,7 @@ This portfolio demonstrates my practical learning journey in:
 - Stakeholder Communication
 - Project Planning & Documentation
 
-
-## About Me
+## 👋 About Me
 
 Hi, I’m Joshi — an aspiring Project Management professional based in Berlin, Germany.
 
@@ -26,14 +25,14 @@ My goal is to transition into a Junior Project Manager, PMO Analyst, or Project 
 
 This portfolio showcases my practical learning journey through simulated project documentation, Agile examples, and PMO structures.
 
-## Current Learning
+## 📚 Current Learning
 
-- CAPM Certification Preparation
-- Agile & Scrum Fundamentals
-- Jira & Confluence
-- Project Planning & Documentation
-- Risk Management
-- Stakeholder Communication
+- 📘 CAPM Certification Preparation
+- 📅 Project Planning & Documentation
+- 📊 Risk Management
+- 🤝 Stakeholder Communication
+- 💼 PMO Support Fundamentals
+- 🚀 Transformation Project Learning
 
 ## 🎯 Career Focus
 
@@ -44,7 +43,7 @@ This portfolio showcases my practical learning journey through simulated project
 - 🤝 Stakeholder Communication
 - 📂 Project Planning & Documentation
 
-## Portfolio Goals
+## 🎯 Portfolio Goals
 This repository is used to practice:
 - Project planning
 - Risk management
@@ -53,7 +52,7 @@ This repository is used to practice:
 - Agile workflows
 - Transformation project structure
 
-## Portfolio Sections
+## 📂 Portfolio Sections
 1. Project Charter
 2. Risk Register
 3. Stakeholder Matrix
@@ -61,5 +60,5 @@ This repository is used to practice:
 5. Project Timeline
 6. Lessons Learned
 
-## Current Goal
+## 💼 Current Goal
 To develop practical project management skills and prepare for PMO Analyst, Project Coordinator, and Junior Project Manager opportunities in Germany.
