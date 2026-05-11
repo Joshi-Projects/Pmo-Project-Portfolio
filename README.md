@@ -14,14 +14,6 @@ The portfolio demonstrates foundational knowledge in:
 - 💼 PMO Support Structures
 - 🚀 Project Lifecycle Management
 
-This portfolio demonstrates my practical learning journey in:
-- Project Management
-- PMO Support
-- Project Coordination
-- Risk Management
-- Stakeholder Communication
-- Project Planning & Documentation
-
 ## 👋 About Me
 
 Hi, I’m Joshi — an aspiring Project Management professional based in Berlin, Germany.
