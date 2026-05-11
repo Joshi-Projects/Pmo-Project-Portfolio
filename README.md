@@ -35,13 +35,14 @@ This portfolio showcases my practical learning journey through simulated project
 - Risk Management
 - Stakeholder Communication
 
-## Career Focus
-- Project Management
-- PMO Support
-- Agile Project Coordination
-- Business Transformation
-- Jira & Confluence
-- Risk & Stakeholder Management
+## 🎯 Career Focus
+
+- 🚀 Project Management
+- 📊 PMO Support
+- 📅 Project Coordination
+- 📌 Risk Management
+- 🤝 Stakeholder Communication
+- 📂 Project Planning & Documentation
 
 ## Portfolio Goals
 This repository is used to practice:
