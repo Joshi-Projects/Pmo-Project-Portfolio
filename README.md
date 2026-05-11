@@ -1,7 +1,28 @@
 # PMO Project Portfolio
 
 ## About Me
-Aspiring Project Management professional based in Berlin, currently preparing for the CAPM certification and building practical PMO and transformation project skills.
+
+Hi, I’m Joshi — an aspiring Project Management professional based in Berlin, Germany.
+
+I am currently preparing for the CAPM certification while building practical skills in:
+- Project Management
+- PMO support
+- Agile workflows
+- Risk & stakeholder management
+- Project coordination
+
+My goal is to transition into a Junior Project Manager, PMO Analyst, or Project Coordinator role within international and transformation-focused environments.
+
+This portfolio showcases my practical learning journey through simulated project documentation, Agile examples, and PMO structures.
+
+## Current Learning
+
+- CAPM Certification Preparation
+- Agile & Scrum Fundamentals
+- Jira & Confluence
+- Project Planning & Documentation
+- Risk Management
+- Stakeholder Communication
 
 ## Career Focus
 - Project Management
