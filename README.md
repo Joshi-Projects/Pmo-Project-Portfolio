@@ -38,8 +38,14 @@ This portfolio showcases my practical learning journey through simulated project
 - 💼 PMO Support Fundamentals
 - 🚀 Transformation Project Learning
 
-## 🎯 Career Focus
+## 🛠️ Tools
 
+- 📊 Microsoft Excel
+- ✅ Jira
+- 📘 Confluence
+- 🚀 GitHub Portfolio Management
+
+## 🎯 Career Focus
 - 🚀 Project Management
 - 📊 PMO Support
 - 📅 Project Coordination
