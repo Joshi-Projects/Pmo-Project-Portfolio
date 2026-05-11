@@ -10,7 +10,6 @@ This portfolio demonstrates my practical learning journey in:
 - Stakeholder Communication
 - Project Planning & Documentation
 
-# Project Portfolio
 
 ## About Me
 
