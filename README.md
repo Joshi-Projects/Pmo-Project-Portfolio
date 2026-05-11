@@ -1,4 +1,16 @@
-# PMO Project Portfolio
+# Project Management Portfolio
+
+Welcome to my Project Management portfolio repository.
+
+This portfolio demonstrates my practical learning journey in:
+- Project Management
+- PMO Support
+- Project Coordination
+- Risk Management
+- Stakeholder Communication
+- Project Planning & Documentation
+
+# Project Portfolio
 
 ## About Me
 
