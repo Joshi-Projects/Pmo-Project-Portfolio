@@ -2,6 +2,18 @@
 
 Welcome to my Project Management portfolio repository.
 
+## 📌 Project Overview
+
+This repository contains simulated project management documents and PMO-style examples created to strengthen my practical understanding of project coordination and delivery environments.
+
+The portfolio demonstrates foundational knowledge in:
+- 📅 Project Planning
+- 📊 Risk Management
+- 🤝 Stakeholder Communication
+- 📂 Documentation & Reporting
+- 💼 PMO Support Structures
+- 🚀 Project Lifecycle Management
+
 This portfolio demonstrates my practical learning journey in:
 - Project Management
 - PMO Support
